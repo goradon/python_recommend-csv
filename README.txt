@@ -1,4 +1,4 @@
-﻿gorabot
+﻿gorabot:DBにデータを溜めていくチャットbotのファーストステップ
 ====
 
 ## Install
